@@ -1,0 +1,7 @@
+&quot;scripts&quot;: {
+&quot;dev&quot;: &quot;vite&quot;,
+&quot;build&quot;: &quot;vite build&quot;,
+&quot;lint&quot;: &quot;eslint .&quot;,
+&quot;preview&quot;: &quot;vite preview&quot;,
+&quot;test&quot;: &quot;vitest run&quot;
+}
